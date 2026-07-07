@@ -1,0 +1,33 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+#bunny{
+  border:5px solid;
+  padding:15px;
+  background-color:lightblue;
+}
+img{
+  border-radius:10px;
+}
+#para{
+  border:3px solid;
+  padding:20px;
+  background-color:#eee;
+  border-radius:20px;
+}
+h1{
+  letter-spacing:10px;
+}
+h1:first-letter{
+  font-size:1.3em;
+  color:green;
+  font-style:italic;
+  background-color:black;
+  color:white;
+}
+
+
+
